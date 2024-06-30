@@ -1,4 +1,4 @@
-This is Sunitha's version of README.md
+This is Sunitha's version of README.md in the trial branch
 
 # Ministry of Testing Certificates in Automation Support App
 The accompanying code repository for the Ministry of Testing Certificates in Automation
